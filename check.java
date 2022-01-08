@@ -1,6 +1,6 @@
 import java.io.*;
 class check{
   public static void main(String args[]){
-    System.out.println("Hello-world");
+    System.out.println("Hello-world from PSJA");
   }
 }
